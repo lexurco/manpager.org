@@ -14,3 +14,4 @@ Following services are available:
 - there's an anonymous ftp/rsync files archive on manpager.org,
   also available over https://manpager.org/pub/;
 - users can be mailed and finger(1)ed via $user@manpager.org;
+
