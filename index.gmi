@@ -1,5 +1,6 @@
 Welcome to manpager.org!
 
-=> motd.txt motd
+=> motd.txt	motd
+=> log.txt	log
 
 => usr/ user directories

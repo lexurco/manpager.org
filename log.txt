@@ -1,0 +1,4 @@
+Entry: 2023-11-26
+
+Finally finished the changes I started at the end of last week.
+Please see https://manpager.org/motd.txt for the new description.
