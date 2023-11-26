@@ -1,0 +1,16 @@
+manpager.org
+
+This site runs on a small VPS in Romania. It uses a recent-ish
+snapshot of OpenBSD. Right now it functions as aa's personal site,
+but I am open to the idea of giving shell accounts to other people.
+For historical reasons, manpager.net and alearx.org are CNAMEd to
+manpager.org.
+
+Following services are available:
+
+- www, gopher and gemini sites at manpager.org;
+- some git repositories are served at git.manpager.org (see
+  https://git.manpager.org);
+- there's an anonymous ftp/rsync files archive on manpager.org,
+  also available over https://manpager.org/pub/;
+- users can be mailed and finger(1)ed via $user@manpager.org;
