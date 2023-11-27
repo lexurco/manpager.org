@@ -3,4 +3,6 @@ Welcome to manpager.org!
 => motd.txt	motd
 => log.txt	log
 
+=> ssh.txt SSH public key fingerprints
+
 => usr/ user directories

@@ -1,0 +1,7 @@
+$ cd /etc/ssh
+$ echo; for f in *.pub; do ssh-keygen -lf $f; done
+
+1024 SHA256:TW8ZBbfIFS6LwrTkmQmTHWQm/JoOcFjyGaiwU2ffgjc root@cockbsd.mineeyes.cyou (DSA)
+256 SHA256:opoYEgPv1vCNHqVP/jRv8OmAHUHnCg9ndpJ+SXaLR2Q root@cockbsd.mineeyes.cyou (ECDSA)
+256 SHA256:N7IVzXGYpgV2RIocpLhqQZ6JsSmlcfJNZfMoOMsUB+E root@cockbsd.mineeyes.cyou (ED25519)
+3072 SHA256:JQoOsYPWlqkLdHq2N4bPv/Ni+7woqqmqABWzFHuQOy0 root@cockbsd.mineeyes.cyou (RSA)
