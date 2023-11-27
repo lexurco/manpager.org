@@ -1,5 +1,3 @@
-manpager.org
-
 This site runs on a small VPS in Romania. It uses a recent-ish
 snapshot of OpenBSD. Right now it functions as aa's personal site,
 but I am open to the idea of giving shell accounts to other people.
