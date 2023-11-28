@@ -3,6 +3,6 @@ Welcome to manpager.org!
 [0|motd|motd.txt|server|port]
 [0|log|log.txt|server|port]
 
-[0|SSH public key fingerprints|ssh.txt|server|port]
-
 [1|user directories|usr/|server|port]
+
+[0|SSH public key fingerprints|ssh.txt|server|port]
