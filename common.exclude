@@ -1,5 +1,6 @@
 *.exclude
 /.git/***
 /.got/***
+/.mailmap
 /pub/***
 /usr/***
