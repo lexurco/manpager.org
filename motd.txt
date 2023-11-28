@@ -9,7 +9,7 @@ Following services are available:
 - www, gopher and gemini sites at manpager.org;
 - some git repositories are served at git.manpager.org (see
   https://git.manpager.org);
-- there's an anonymous ftp/rsync files archive on manpager.org,
-  also available over https://manpager.org/pub/;
+- there's an anonymous ftp/rsync archive on manpager.org, also available
+  at https://manpager.org/pub/;
 - users can be mailed and finger(1)ed via $user@manpager.org;
 
