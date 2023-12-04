@@ -1,6 +1,5 @@
-$ cd /etc/ssh
-$ echo; for f in *.pub; do ssh-keygen -lf $f; done | awk '{print $1, $2, $4}'
-
+$ for f in /etc/ssh/*.pub; do ssh-keygen -lf $f; done |
+>   cut -d' ' -f1,2,4
 1024 SHA256:TW8ZBbfIFS6LwrTkmQmTHWQm/JoOcFjyGaiwU2ffgjc (DSA)
 256 SHA256:opoYEgPv1vCNHqVP/jRv8OmAHUHnCg9ndpJ+SXaLR2Q (ECDSA)
 256 SHA256:N7IVzXGYpgV2RIocpLhqQZ6JsSmlcfJNZfMoOMsUB+E (ED25519)
