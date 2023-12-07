@@ -1,4 +1,4 @@
-Welcome to manpager.org!
+Welcome to MANPAGER!
 
 => motd.txt	motd
 => log.txt	log
