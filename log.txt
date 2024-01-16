@@ -2,3 +2,8 @@ Entry: 2023-11-26
 
 Finally finished the changes I started at the end of last week.
 Please see https://manpager.org/motd.txt for the new description.
+
+
+Entry: 2024-01-16
+
+Welcome, alex!
