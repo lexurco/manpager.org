@@ -1,9 +1,4 @@
-Entry: 2023-11-26
+Entry: 2024-05-27
 
-Finally finished the changes I started at the end of last week.
-Please see https://manpager.org/motd.txt for the new description.
-
-
-Entry: 2024-01-16
-
-Welcome, alex!
+Hey! I'll be migrating the site to a different host this Tuesday
+(2024-05-28), so expect things to break. Sorry. :^|
