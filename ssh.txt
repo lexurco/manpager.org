@@ -1,16 +1,15 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-$ for f in /etc/ssh/*.pub; do ssh-keygen -lf $f; done |
->   cut -d' ' -f1,2,4
-1024 SHA256:TW8ZBbfIFS6LwrTkmQmTHWQm/JoOcFjyGaiwU2ffgjc (DSA)
-256 SHA256:opoYEgPv1vCNHqVP/jRv8OmAHUHnCg9ndpJ+SXaLR2Q (ECDSA)
-256 SHA256:N7IVzXGYpgV2RIocpLhqQZ6JsSmlcfJNZfMoOMsUB+E (ED25519)
-3072 SHA256:JQoOsYPWlqkLdHq2N4bPv/Ni+7woqqmqABWzFHuQOy0 (RSA)
+$ for f in /etc/ssh/*.pub; do ssh-keygen -l -f $f; done |
+>   cut -d ' ' -f 1,2,4
+256 SHA256:IhpZUcqexJy8Sbd7x2fTq5I7YFYZiHAbWtr7Qzh31lI (ECDSA)
+256 SHA256:67AWu8qhrrhzLeyVo+ObdFYTCYOjGCgU07nFteNwC7Q (ED25519)
+3072 SHA256:iSmZGqYb+mYNlw1mFlL0yFeeU5ensa2tLwcbhiH/ju8 (RSA)
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRNcPB/AgKDY/6GZPv3PWiA/VyM4wUCZYRbaAAKCRD3PWiA/VyM
-4/a/AP42RvFx/McfbaMmuJEAMoU6qu9FXHadq3F9q6Dmn6A5uwD/S0Sk7gKErk9S
-hYaAjppg6ndkGmUys50At0F9Dkxx0QM=
-=9jFT
+iIYEARYKAC4WIQRNcPB/AgKDY/6GZPv3PWiA/VyM4wUCZlhmChAcYWFAbWFucGFn
+ZXIub3JnAAoJEPc9aID9XIzjiuYBALCS3OftFoMWaP6C+unE/JlD1ebcnZtZXISC
+RtVpEzPHAP40o03PZ9ZHgHhEQZAlqg7miYOp67mLMFKZeyptkeOQDA==
+=1v5P
 -----END PGP SIGNATURE-----
