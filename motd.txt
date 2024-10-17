@@ -1,6 +1,5 @@
-This site runs on a small VPS in Romania. It uses a recent-ish snapshot
-of OpenBSD. For historical reasons, manpager.net and alearx.org are
-CNAMEd to manpager.org.
+This site runs on a small VPS on OpenBSD 7.6. For historical reasons,
+manpager.net and alearx.org are CNAMEd to manpager.org.
 
 Following services are available:
 
